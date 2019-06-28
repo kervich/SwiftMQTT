@@ -2,7 +2,7 @@
 
 MQTT Client
 
-[![Build Status](https://travis-ci.org/aciidb0mb3r/SwiftMQTT.svg)](https://travis-ci.org/aciidb0mb3r/SwiftMQTT)
+[![Build Status](https://travis-ci.org/kervich/SwiftMQTT.svg)](https://travis-ci.org/kervich/SwiftMQTT)
 [![Version](https://img.shields.io/cocoapods/v/SwiftMQTT.svg?style=flat)](http://cocoapods.org/pods/SwiftMQTT)
 [![License](https://img.shields.io/cocoapods/l/SwiftMQTT.svg?style=flat)](http://cocoapods.org/pods/SwiftMQTT)
 
